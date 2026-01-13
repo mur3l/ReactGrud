@@ -19,7 +19,7 @@ namespace ReactGrud.Server.Controllers
         }
 
         [HttpGet(Name = "GetWeatherForecast")]
-        public IEnumerable<WeatherForecast> Get()
+        public IEnumerable<WeatherForecastController> Get()
         {
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
