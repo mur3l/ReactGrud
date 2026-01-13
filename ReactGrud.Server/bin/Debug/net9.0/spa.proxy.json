@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:56065",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\tauno\\source\\repos\\ReactGrud\\ReactGrud.Server\\..\\reactgrud.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

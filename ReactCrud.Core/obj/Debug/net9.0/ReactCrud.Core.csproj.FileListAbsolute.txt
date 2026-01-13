@@ -1,0 +1,12 @@
+C:\Users\tauno\source\repos\ReactGrud\ReactCrud.Core\bin\Debug\net9.0\ReactCrud.Core.deps.json
+C:\Users\tauno\source\repos\ReactGrud\ReactCrud.Core\bin\Debug\net9.0\ReactCrud.Core.dll
+C:\Users\tauno\source\repos\ReactGrud\ReactCrud.Core\bin\Debug\net9.0\ReactCrud.Core.pdb
+C:\Users\tauno\source\repos\ReactGrud\ReactCrud.Core\obj\Debug\net9.0\ReactCrud.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tauno\source\repos\ReactGrud\ReactCrud.Core\obj\Debug\net9.0\ReactCrud.Core.AssemblyInfoInputs.cache
+C:\Users\tauno\source\repos\ReactGrud\ReactCrud.Core\obj\Debug\net9.0\ReactCrud.Core.AssemblyInfo.cs
+C:\Users\tauno\source\repos\ReactGrud\ReactCrud.Core\obj\Debug\net9.0\ReactCrud.Core.csproj.CoreCompileInputs.cache
+C:\Users\tauno\source\repos\ReactGrud\ReactCrud.Core\obj\Debug\net9.0\ReactCrud.Core.sourcelink.json
+C:\Users\tauno\source\repos\ReactGrud\ReactCrud.Core\obj\Debug\net9.0\ReactCrud.Core.dll
+C:\Users\tauno\source\repos\ReactGrud\ReactCrud.Core\obj\Debug\net9.0\refint\ReactCrud.Core.dll
+C:\Users\tauno\source\repos\ReactGrud\ReactCrud.Core\obj\Debug\net9.0\ReactCrud.Core.pdb
+C:\Users\tauno\source\repos\ReactGrud\ReactCrud.Core\obj\Debug\net9.0\ref\ReactCrud.Core.dll
