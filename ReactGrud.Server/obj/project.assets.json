@@ -144,7 +144,7 @@
           "Microsoft.AspNetCore.App"
         ]
       },
-      "Microsoft.AspNetCore.SpaProxy/9.0.11": {
+      "Microsoft.AspNetCore.SpaProxy/9.0.12": {
         "type": "package",
         "compile": {
           "lib/net9.0/Microsoft.AspNetCore.SpaProxy.dll": {}
@@ -1714,14 +1714,14 @@
           }
         }
       },
-      "ReactCrud.Core/1.0.0": {
+      "ReactGrud.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "compile": {
-          "bin/placeholder/ReactCrud.Core.dll": {}
+          "bin/placeholder/ReactGrud.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ReactCrud.Core.dll": {}
+          "bin/placeholder/ReactGrud.Core.dll": {}
         }
       },
       "ReactGrud.Data/1.0.0": {
@@ -1729,7 +1729,7 @@
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "9.0.11",
-          "ReactCrud.Core": "1.0.0"
+          "ReactGrud.Core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ReactGrud.Data.dll": {}
@@ -1868,10 +1868,10 @@
         "microsoft.aspnetcore.openapi.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.SpaProxy/9.0.11": {
-      "sha512": "OCTeWJGdzDqgxagKTI4xK8Z9/lv7G8QtE3xtytYGrx/1BxgOAbJk7E/4MGHDLpKDniDaASdVduZ3pQ3yNZtgEA==",
+    "Microsoft.AspNetCore.SpaProxy/9.0.12": {
+      "sha512": "cVpAw/mkCMDfkGHS87aq7DW13vDUona9ShFt7DiNgdjoz7+1lXx8PPaKbBiQGSuVDrY/Mn5yA0IqdyVhYYcFuA==",
       "type": "package",
-      "path": "microsoft.aspnetcore.spaproxy/9.0.11",
+      "path": "microsoft.aspnetcore.spaproxy/9.0.12",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1879,7 +1879,7 @@
         "THIRD-PARTY-NOTICES.TXT",
         "build/Microsoft.AspNetCore.SpaProxy.targets",
         "lib/net9.0/Microsoft.AspNetCore.SpaProxy.dll",
-        "microsoft.aspnetcore.spaproxy.9.0.11.nupkg.sha512",
+        "microsoft.aspnetcore.spaproxy.9.0.12.nupkg.sha512",
         "microsoft.aspnetcore.spaproxy.nuspec"
       ]
     },
@@ -4929,10 +4929,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "ReactCrud.Core/1.0.0": {
+    "ReactGrud.Core/1.0.0": {
       "type": "project",
-      "path": "../ReactCrud.Core/ReactCrud.Core.csproj",
-      "msbuildProject": "../ReactCrud.Core/ReactCrud.Core.csproj"
+      "path": "../ReactCrud.Core/ReactGrud.Core.csproj",
+      "msbuildProject": "../ReactCrud.Core/ReactGrud.Core.csproj"
     },
     "ReactGrud.Data/1.0.0": {
       "type": "project",

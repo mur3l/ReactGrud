@@ -884,14 +884,14 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "ReactCrud.Core/1.0.0": {
+      "ReactGrud.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "compile": {
-          "bin/placeholder/ReactCrud.Core.dll": {}
+          "bin/placeholder/ReactGrud.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ReactCrud.Core.dll": {}
+          "bin/placeholder/ReactGrud.Core.dll": {}
         }
       }
     }
@@ -2749,10 +2749,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "ReactCrud.Core/1.0.0": {
+    "ReactGrud.Core/1.0.0": {
       "type": "project",
-      "path": "../ReactCrud.Core/ReactCrud.Core.csproj",
-      "msbuildProject": "../ReactCrud.Core/ReactCrud.Core.csproj"
+      "path": "../ReactCrud.Core/ReactGrud.Core.csproj",
+      "msbuildProject": "../ReactCrud.Core/ReactGrud.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2760,7 +2760,7 @@
       "Microsoft.EntityFrameworkCore >= 9.0.11",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.11",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.11",
-      "ReactCrud.Core >= 1.0.0"
+      "ReactGrud.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2796,8 +2796,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\tauno\\source\\repos\\ReactGrud\\ReactCrud.Core\\ReactCrud.Core.csproj": {
-              "projectPath": "C:\\Users\\tauno\\source\\repos\\ReactGrud\\ReactCrud.Core\\ReactCrud.Core.csproj"
+            "C:\\Users\\tauno\\source\\repos\\ReactGrud\\ReactCrud.Core\\ReactGrud.Core.csproj": {
+              "projectPath": "C:\\Users\\tauno\\source\\repos\\ReactGrud\\ReactCrud.Core\\ReactGrud.Core.csproj"
             }
           }
         }

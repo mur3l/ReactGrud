@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReactGrud.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be03dc71d44de65194bcec361a9e5d71bf862ce4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0144868a2ee85e76cabdfcb7d3baa64861bff54f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReactGrud.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReactGrud.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
