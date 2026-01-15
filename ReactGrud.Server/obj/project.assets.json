@@ -1714,28 +1714,28 @@
           }
         }
       },
-      "ReactGrud.Core/1.0.0": {
+      "ReactCrud.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "compile": {
-          "bin/placeholder/ReactGrud.Core.dll": {}
+          "bin/placeholder/ReactCrud.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ReactGrud.Core.dll": {}
+          "bin/placeholder/ReactCrud.Core.dll": {}
         }
       },
-      "ReactGrud.Data/1.0.0": {
+      "ReactCrud.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "9.0.11",
-          "ReactGrud.Core": "1.0.0"
+          "ReactCrud.Core": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/ReactGrud.Data.dll": {}
+          "bin/placeholder/ReactCrud.Data.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ReactGrud.Data.dll": {}
+          "bin/placeholder/ReactCrud.Data.dll": {}
         }
       }
     }
@@ -4929,15 +4929,15 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "ReactGrud.Core/1.0.0": {
+    "ReactCrud.Core/1.0.0": {
       "type": "project",
-      "path": "../ReactCrud.Core/ReactGrud.Core.csproj",
-      "msbuildProject": "../ReactCrud.Core/ReactGrud.Core.csproj"
+      "path": "../ReactCrud.Core/ReactCrud.Core.csproj",
+      "msbuildProject": "../ReactCrud.Core/ReactCrud.Core.csproj"
     },
-    "ReactGrud.Data/1.0.0": {
+    "ReactCrud.Data/1.0.0": {
       "type": "project",
-      "path": "../ReactGrud.Data/ReactGrud.Data.csproj",
-      "msbuildProject": "../ReactGrud.Data/ReactGrud.Data.csproj"
+      "path": "../ReactGrud.Data/ReactCrud.Data.csproj",
+      "msbuildProject": "../ReactGrud.Data/ReactCrud.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4947,7 +4947,7 @@
       "Microsoft.AspNetCore.SpaProxy >= 9.*-*",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.11",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.11",
-      "ReactGrud.Data >= 1.0.0"
+      "ReactCrud.Data >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4957,9 +4957,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tauno\\source\\repos\\ReactGrud\\ReactGrud.Server\\ReactGrud.Server.csproj",
-      "projectName": "ReactGrud.Server",
-      "projectPath": "C:\\Users\\tauno\\source\\repos\\ReactGrud\\ReactGrud.Server\\ReactGrud.Server.csproj",
+      "projectUniqueName": "C:\\Users\\tauno\\source\\repos\\ReactGrud\\ReactGrud.Server\\ReactCrud.Server.csproj",
+      "projectName": "ReactCrud.Server",
+      "projectPath": "C:\\Users\\tauno\\source\\repos\\ReactGrud\\ReactGrud.Server\\ReactCrud.Server.csproj",
       "packagesPath": "C:\\Users\\tauno\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\tauno\\source\\repos\\ReactGrud\\ReactGrud.Server\\obj\\",
       "projectStyle": "PackageReference",
@@ -4983,8 +4983,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\tauno\\source\\repos\\ReactGrud\\ReactGrud.Data\\ReactGrud.Data.csproj": {
-              "projectPath": "C:\\Users\\tauno\\source\\repos\\ReactGrud\\ReactGrud.Data\\ReactGrud.Data.csproj"
+            "C:\\Users\\tauno\\source\\repos\\ReactGrud\\ReactGrud.Data\\ReactCrud.Data.csproj": {
+              "projectPath": "C:\\Users\\tauno\\source\\repos\\ReactGrud\\ReactGrud.Data\\ReactCrud.Data.csproj"
             }
           }
         }

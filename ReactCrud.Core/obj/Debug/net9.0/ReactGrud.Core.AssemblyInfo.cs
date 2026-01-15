@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReactGrud.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0144868a2ee85e76cabdfcb7d3baa64861bff54f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e0def9da6f439dec3a7186bd8103c825d2086d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReactGrud.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReactGrud.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

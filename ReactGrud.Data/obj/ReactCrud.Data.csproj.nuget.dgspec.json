@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tauno\\source\\repos\\ReactGrud\\ReactGrud.Data\\ReactGrud.Data.csproj": {}
+    "C:\\Users\\tauno\\source\\repos\\ReactGrud\\ReactGrud.Data\\ReactCrud.Data.csproj": {}
   },
   "projects": {
     "C:\\Users\\tauno\\source\\repos\\ReactGrud\\ReactCrud.Core\\ReactCrud.Core.csproj": {
@@ -70,12 +70,12 @@
         }
       }
     },
-    "C:\\Users\\tauno\\source\\repos\\ReactGrud\\ReactGrud.Data\\ReactGrud.Data.csproj": {
+    "C:\\Users\\tauno\\source\\repos\\ReactGrud\\ReactGrud.Data\\ReactCrud.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tauno\\source\\repos\\ReactGrud\\ReactGrud.Data\\ReactGrud.Data.csproj",
-        "projectName": "ReactGrud.Data",
-        "projectPath": "C:\\Users\\tauno\\source\\repos\\ReactGrud\\ReactGrud.Data\\ReactGrud.Data.csproj",
+        "projectUniqueName": "C:\\Users\\tauno\\source\\repos\\ReactGrud\\ReactGrud.Data\\ReactCrud.Data.csproj",
+        "projectName": "ReactCrud.Data",
+        "projectPath": "C:\\Users\\tauno\\source\\repos\\ReactGrud\\ReactGrud.Data\\ReactCrud.Data.csproj",
         "packagesPath": "C:\\Users\\tauno\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\tauno\\source\\repos\\ReactGrud\\ReactGrud.Data\\obj\\",
         "projectStyle": "PackageReference",

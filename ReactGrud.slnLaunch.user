@@ -3,7 +3,7 @@
     "Name": "New Profile",
     "Projects": [
       {
-        "Path": "ReactGrud.Server\\ReactGrud.Server.csproj",
+        "Path": "ReactGrud.Server\\ReactCrud.Server.csproj",
         "Action": "Start"
       }
     ]
